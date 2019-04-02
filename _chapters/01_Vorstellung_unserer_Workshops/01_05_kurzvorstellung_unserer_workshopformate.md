@@ -7,11 +7,61 @@ section: 5
 
 <b> Unsere Workshops wurden von Expert/innen entwickelt, wissenschaftlich
 evaluiert und sind konkret auf Jugendliche zugeschnitten.
-Sie bedienen fünf aktuelle Themen rund um Digitalisierung,
+Sie bedienen acht aktuelle Themen rund um Digitalisierung,
 Technologie und Demokratie. Jedes Format hat dabei unterschiedliche
 Voraussetzungen, Ziele und Anforderungen.
 Hier eine Kurzvorstellung aller Workshops: </b>
 
+###Übersicht
+<table>
+  <tbody>
+    <tr>
+      <td style="font-weight: bold;">Workshop</td>
+      <td style="font-weight: bold;">Thema</td>
+      <td style="font-weight: bold;">Tool</td>
+    </tr>
+    <tr>
+      <td>Newsbusters</td>
+      <td>Fake News</td>
+      <td>Medienanalyse und Simulationsspiel</td>
+    </tr>
+    <tr>
+      <td>Invasion der Cybertrolle</td>
+      <td>Diskussionskultur im Netz</td>
+      <td>Digital/Analoges Brettspiel</td>
+    </tr>
+    <tr>
+      <td>Ungehörsam</td>
+      <td>Meinungsäußerung</td>
+      <td>QR-Code Ralley erstellen</td>
+    </tr>
+    <tr>
+      <td>Game of Thoughts</td>
+      <td>Meinungsbildung</td>
+      <td>Spielentwicklung</td>
+    </tr>
+    <tr>
+      <td>Auf Mikas Spuren</td>
+      <td>Populismus</td>
+      <td>Escape Room</td>
+    </tr>
+    <tr>
+      <td>Data Dancing</td>
+      <td>Diversität und Datenschutz</td>
+      <td>App-Konzeption</td>
+    </tr>
+    <tr>
+      <td>Minetest Hero Theatre</td>
+      <td>Ungerechtigkeit</td>
+      <td>Theater in Spielen aufführen</td>
+    </tr>
+    <tr>
+      <td>instAR.lab</td>
+      <td>Influencing</td>
+      <td>Augmented Reality und Instagram</td>
+    </tr>
+  </tbody>
+</table>
 
 ###Newsbusters
 
@@ -319,6 +369,7 @@ inhaltlich von populistischen Eindrücken umgeben. Diese als
 solche zu erkennen und Handlungsstrategien zu entwerfen ist
 das Ziel des Spieles.
 
+
 ####Data Dancing
 Entwirf eine eigene App, die dich mit Freunden vernetzt! Wieviele 
 Informationen möchtest du freigeben, um die Daten anderer zu sehen? Was 
@@ -332,7 +383,7 @@ und Überwachung spielt und warum Schubladen-Denken nervt.
 <table>
   <tbody>
       <td style="font-weight: bold;">Themen</td>
-      <td>Diversität, Datenschutz</td>
+      <td>Diversität und Datenschutz</td>
     </tr>
     <tr>
       <td style="font-weight: bold;">Dauer:</td>
@@ -358,6 +409,11 @@ und Überwachung spielt und warum Schubladen-Denken nervt.
 </table>
 
 ####Hintergrund des Workshops
+
+<div style="margin-right: 0px; float:right; margin-left: 40px; margin-bottom: 20px">
+  <img src="/images/datadancing.png"  style="display: block; max-width:200px; "/>
+</div>
+
 Soziale Netzwerke sind aus eine alltägliche Kommunikationsebene Jugendlicher. Sie nutzen digitale Platformen um sich mit Freunden oder anderen Gruppen (Schule, Hobby, Arbeit) beständig auszutauschen. Dabei sind sie wohl öffentlich einsehbare als auch private Orte - für mehrere oder auch nur zwei Personen. Ebenfalls werden sie auch genutzt um Freunde zu gewinnen - Entweder weil man sie in einem realen Kontext kennenlernte oder über Platformen, auf denen man sich zu einem Thema austauschen kann. Gerade in diesem Kontext spielt der Grad an Medienkompetenz eine tragende Rolle: Das digitale Freunde-Finden basiert auf dem gegenseitigem Vertrauen, dass Daten, die man über sich eingestellt hat der Wahrheit entsprechen. Gleichzeitig ist davon abzuraten all seine Daten für Unbekannte öffentlich zu machen. Nicht immer ist die Person gegenüber die, die sie zu sein scheint. Und auch die Platformen selbst können persönliche Daten für verschiedenste Zwecke missbrauchen. Diese Balance ist ein Kern des Workshops, indem die Teilnehmenden ihre eigene App gestalten können. Eine, in der sie Features einbauen, die sie sich schon immer wünschten oder eine ganz neue Art der Kommunikation ermöglicht. Die Disko steht hierbei als Methapher für einen solchen Ort, an dem man sich zu einem Hobby trifft, schnell kommunizieren und leicht Freundschaften schließen kann.
 Über Papier-Zeichnungen und einem Programm, welches die Zeichnungen abfotografieren und anschließend interaktiv verknüpfen lässt, lassen sich Ideen für ihre eigenen soziale Netzwerke leicht umsetzen - ganz ohne Einschränkungen technischer Barrieren der App-Programmierung. Die Teilnehmenden werden dabei schnell mit vielen Detail-Fragen in der Umsetzung konfrontiert. Welche Daten fragt man ab? Auf welcher Basis werden Freundschaften geschlossen - im Realen und im Digitalen? Wie geht man mit unterschiedlichen Sprachen und Herkünften um? Wie verhindert man Mobbing? Schnell wird dabei meist klar, dass viele Apps mit einer bestimmten Zielgruppe im Kopf entwickelt werden und welche Rolle Diversität schon in der Umsetzung spielt. Neben den Themen Datenschutz und Diversität lernen die Teilnehmenden darüber hinaus auch das schnelle Verwirklichen von App-Konzepten, mit denen sie ihre Vorstellungen ausdrücken oder sogar Unterstüztende für eine reale Umsetzeng gewinnen können.
 
@@ -400,6 +456,11 @@ aus Spielen produziert und welche Superkräfte in dir selbst schlummern.
 </table>
 
 ####Hintergrund des Workshops
+
+<div style="margin-right: 0px; float:right; margin-left: 40px; margin-bottom: 20px">
+  <img src="/images/minetest.png"  style="display: block; max-width:200px; "/>
+</div>
+
 Komplexe oder nicht ganz greifbare Situationen hinterlassen oft ein Gefühl der Ohnmächtigkeit. Etwas läuft nicht gut in der Welt und gerade Jugendliche besitzen ein sehr gutes Gespür für Ungerechtigkeiten. In fiktionalen Welten lassen sich diese konkret abbilden: Hier können Heldenfiguren gegen Verkörperungen einer Ungerechtigkeit wirken. Doch wie? Welche Handlungen führen sie aus, welche Kräfte und Hilfsmittel nutzen sie dazu? Lassen sich Teile davon in die Realität zurückübertragen? In Minetest wird das Nachdenken zu Ungerechtigkeiten zum Spiel: Schnell ist eine Welt gebaut, Figuren und eine Geschichte angelegt. Ihre Ideen finden direkt eine Form in ihrer Kreativität. Da in Gruppen gearbeitet wird, fallen so mehrere Probleme, Wünsche und vor allem Lösungsansätze zusammen, die innerhalb eines Improvisations-Theaters erprobt werden können. Besonders das Aufführen ihrer Show ermöglicht noch weitere Perspektiven auf die dargestellten Themen, da das Publikum ihre eigenen Gedanken auf das Dargetellte projezieren. Neben dieser inhaltlichen Auseinandersetzung erlernen die Teilnehmenden darüber hinaus, wie sie ein bestehendes Medium für andere Zwecke ausnutzen können: Statt zu konsumieren und das Spiel zu spielen, nutzen sie die Welt um in ihr eigene Ideen abzubilden und sie Menschen in Form einer Aufführung, Bildern und Videos zugänglich zu machen. 
 
 
@@ -414,7 +475,7 @@ du in diesem Workshop.
 <table>
   <tbody>
       <td style="font-weight: bold;">Themen</td>
-      <td>Influencer</td>
+      <td>Influencing</td>
     </tr>
     <tr>
       <td style="font-weight: bold;">Dauer:</td>
@@ -440,4 +501,9 @@ du in diesem Workshop.
 </table>
 
 ####Hintergrund des Workshops
+
+<div style="margin-right: 0px; float:right; margin-left: 40px; margin-bottom: 20px">
+  <img src="/images/instarlab.png"  style="display: block; max-width:200px; "/>
+</div>
+
 Auf Instagram geht es zu großen Teilen um Selbstdarstellung. Wenig ist zum Teilen ausgelegt, jeder soll eigene Inhalte hochladen und mit Likes und Followern ein Publikum aufbauen. Gerade Nutzende, denen viele folgen, lassen so schnell vielen Menschen ihre Meinung, Interessen und auch Werbung zukommen. Gerade Werbung ist als solche aber oft schwer zu erkennen. Muss man sie als solche kennzeichnen, auch wenn man kein Geld von Sponsoren erhält? Was ist, wenn man einfach nur immer seine Lieblingsmarke an hat? Es wirkt alles sehr persönlich, aber was, wenn es das nicht ist? Im Workshop lernen die Teilnehmenden die Tricks der Influencer, Punkte auf die es zu achten gilt und vor allem wie sie mit dem Wissen selbst aktiv werden und sich Petitions-artig für ihre Vorstellungen einsetzen können. Da Instagram ein visuelles Medium ist, werden ihre Vorstellungen mit Hilfe von Augmented Reality abgebildet: Objekt bauen, in der Realität fotografieren und so aufarbeiten, dass möglichst viele Menschen darauf aufmerksam werden!
