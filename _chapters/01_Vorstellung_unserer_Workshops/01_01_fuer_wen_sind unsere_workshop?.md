@@ -1,5 +1,5 @@
 ---
-title: "Für wen sind unsere Workshop?"
+title: "Für wen sind unsere Workshops?"
 type: section
 chapter: 1
 section: 1
