@@ -77,7 +77,7 @@ Alle Materialien inklusive dem ausführlichen und anpassbaren Ablaufplan (ZIM - 
   <img src="/images/newsbusters-2.png"  style="display: block; max-width:380px; "/>
 </div>
 
-<p style="color:#0000ff; font-weight: bold;">[Download ausführliches ZIM](https://demokratielabore.de/workshops/downloads/newsbusters/Newsbusters%20Ablaufplan.zip)</p>
+<a style="color:#0000ff; font-weight: bold;" href="https://demokratielabore.de/workshops/downloads/newsbusters/Newsbusters%20Ablaufplan.zip">Download ausführliches ZIM</a>
 
 <table>
   <tbody>
