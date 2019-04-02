@@ -9,7 +9,7 @@ section: 6
 ####Übersicht zum Ablauf
 
 <div style="margin-right: 0px; float:right; margin-left: 40px; margin-bottom: 20px">
-  <img src="/images/datatancing-1.png"  style="display: block; max-width:300px; "/>
+  <img src="/images/datadancing-1.png"  style="display: block; max-width:300px; "/>
 </div>
 
 Alle Teilnehmenden entwerfen zum Start diverse Charaktere, bei denen teilweise Eigenschaften vorgegeben sind. Diese gilt es in kleinen Gruppen zusammenzuführen - durch welche App könne das gelingen? Wie können sie sich über welche Hobbys, Interessen oder sonstigen Gemeinsamkeiten kennenlernen? Oder spielen Sensoren und Automatismen eine viel größere Rolle?
