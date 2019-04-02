@@ -7,6 +7,10 @@ section: 2
 
 ####Übersicht zum Ablauf
 
+<div style="margin-right: 0px; float:right; margin-left: 40px; margin-bottom: 20px">
+  <img src="/images/cybertrolle.png"  style="display: block; max-width:300px; "/>
+</div>
+
 Die Teilnehmenden werden nach einem Warm-up in Gruppen eingeteilt
 und suchen sich je eine von vier möglichen Spielfiguren mit
 unterschiedlichen Fähigkeiten aus. Anschließend startet das Abenteuer:
