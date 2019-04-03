@@ -16,7 +16,7 @@ Beschäftige dich mit dem Workshop am besten vorher, in dem du ihn einmal selbst
 In jedem Workshop findest du einen Link zu seinem detaillierten Ablaufplan. Diesen haben wir so vorbereitet, dass er möglichst auf deine Bedürfnisse anpassbar ist:
 
 <div style="margin: auto; margin-bottom: 20px">
-  <img src="/images/ZIM_beschreibung.png"  style="display: block; max-width:2000px; margin: auto"/>
+  <img src="/images/ZIM_beschreibung-1.png"  style="display: block; max-width:2000px; margin: auto"/>
 </div>
 
 <table>
