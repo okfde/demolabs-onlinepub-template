@@ -5,21 +5,6 @@ chapter: 4
 section: 4
 ---
 
-Den Workshop könnt ihr natürlich beliebig oft wiederholen oder
-auch eines der anderen Formate ausprobieren. Wenn ihr euch
-brennend für digitale Themen interessiert und ein paar Jugendliche
-vor Ort habt, die das auch tun, könnt ihr auch eine Digital-AG
-gründen – wir unterstützen euch gerne dabei!
-
-Die Idee der Digital-AGs ist, die Themen aus den Workshops
-noch einmal aufzugreifen und sich ausführlicher damit zu
-beschäftigen. Es können aber auch völlig neue Themen an
-der Schnittstelle von Digitalisierung, Technologie und Demokratie
-eingebracht werden, je nachdem, was euch und eure
-Jugendlichen gerade beschäftigt. Und: Ihr seid damit nicht
-allein! Unsere ExpertInnen können Hilfestellungen, Ideen und
-Kontakte vermitteln. Bis Ende 2018 wollen wir außerdem ein
-deutschlandweites Netzwerk von Digital-AGs aufbauen, in denen
-ihr euch dann mit anderen Fachkräften in der Jugendarbeit
-austauschen könnt. Interesse? Dann meldet euch gerne bei uns:
-[info@demokratielabore.de](mailto:info@demokratielabore.de)!
+Nach dem Erleben oder Durchführen eines Workshops könnt ihr weiterhin mit den Materialien arbeiten - zum Beispiel, um sie an besondere Themenschwerpunkte anzupassen? Alle notwendigen Dateien findet ihr auf unserer Seite. 
+Solltet ihr nach einem Workshop Lust haben, euch weiterhin an digitalen Themen und Technologien auszuprobieren, dann startet eure Digital-AG oder ein Jugend-Lab. Wenn ihr erst einmal in bestehende Labs schnuppern möchtet, dann findet ihr auf unserer Internetseite [Anlaufstellen](https://demokratielabore.de/angebot/digital-ags/). Wendet euch bei Interesse direkt an die jeweiligen Einrichtungen! 
+Wenn ihr Lust habt euch ein bisschen mehr Inspiration für gesellschaftliche Themen, Digitale Tools oder Projekte abzuholen, dann werft einen Blick auf die [Materialplattform](https://demokratielabore.de/materialsammlung/). Hier findet ihr jede Menge spannende Themen, Projektideen und Tutorials zum selber Nutzen. Ihr habt eigene Ideen entwickelt? Dann fügt sie hinzu und inspiriert andere Menschen! 
