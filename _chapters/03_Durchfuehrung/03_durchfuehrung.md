@@ -23,7 +23,7 @@ In jedem Workshop findest du einen Link zu seinem detaillierten Ablaufplan. Dies
   <tbody>
     <tr>
       <td style="font-weight: bold;">A</td>
-      <td>Hier stellst du ein, mit wievielen Gruppen du planst. Blau markierte Zeiten passen sich dadurch automatisch an.“</td>
+      <td>Hier stellst du ein, mit wievielen Gruppen du planst. Blau markierte Zeiten passen sich dadurch automatisch an.</td>
     </tr>
     <tr>
       <td style="font-weight: bold;">B</td>
