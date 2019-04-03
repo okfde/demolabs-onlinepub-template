@@ -7,7 +7,7 @@ chapter: 5
 Die Publikation ist Rahmen des Projektes <a href="https://demokratielabore.de">Demokratielabore</a> der <a href="https://okfn.de">Open Knowledge Foundation Deutschland</a> entstanden. 
 Die Demokratielabore werden vom <a href="http://www.bmfsfj.de">Bundesministerium für Familie, Senioren, Frauen und Jugend</a> im Rahmen des Bundesprogramms <a href="http://www.demokratie-leben.de">Demokratie leben!</a> und von der <a href="https://www.bpb.de">Bundeszentrale für politische Bildung</a> gefördert.
 <br><br>
-<b>Redaktion:</b> Sebastian Seitz, Matthias Löwe, Leonard Wolf, Lea Pfau,
+<b>Redaktion:</b> Lydia Böttcher, Sebastian Seitz, Maximilian Voigt, Matthias Löwe, Leonard Wolf, Lea Pfau,
 Nadine Stammen, Jasmin Helm, Saadya Windauer, Maria Reimer,
 Paula Grünwald<br>
 <b>Lektorat: </b>Andrea Baron<br>
