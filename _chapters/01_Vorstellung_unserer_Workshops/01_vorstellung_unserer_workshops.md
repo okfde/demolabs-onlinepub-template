@@ -1,5 +1,5 @@
 ---
-title: "Vorstellung unserer Workshops"
+title: "Vorstellung des Train the Trainer Workshops"
 type: chapter
 chapter: 1
 --- 
