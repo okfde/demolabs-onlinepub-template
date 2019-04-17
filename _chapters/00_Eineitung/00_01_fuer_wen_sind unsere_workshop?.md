@@ -6,4 +6,4 @@ section: 1
 ---
 
 
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
+Das Train the Trainer Konzept richtet sich an Menschen, die im besten Fall bereits an Workshops der Demokratielabore teilgenommen haben oder einzelne Workshops selbst durchführen konnten. Die Weitergabe und Qualifizierung anderer Multiplikator*innen und Kolleg*innen soll durch das Train the Trainer Konzept unterstützt werden.
