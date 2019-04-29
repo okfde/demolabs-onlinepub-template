@@ -4,36 +4,14 @@ type: section
 chapter: 2
 section: 1
 ---
-<b>
-	Die Planung startet mit der Terminfindung: Wo und wann findet
-der Workshop statt? Wie viele Jugendliche werden voraussichtlich
-daran teilnehmen? Habt ihr dafür ausreichend Platz in eurer
-Einrichtung oder zieht ihr in eine größere Location um?
-</b>
 
-Vielleicht lässt sich der Workshop auch mit einem anderen Event
-verbinden, in eine Projektwoche integrieren oder ihr kennt
-ExpertInnen, die zusätzlich einen Vortrag zu dem Thema halten
-können. Wenn ihr plant, einen Workshop über mehrere Stunden
-oder Tage zu veranstalten, ist außerdem an Verpflegung und
-gegebenenfalls Übernachtungsmöglichkeiten für die Teilnehmenden
-zu denken.
-Steht der Termin, ist noch zu klären, wer den Workshop leiten
-wird und wer dabei unterstützen kann. Wir empfehlen euch, die
-Workshops immer mindestens zu zweit durchzuführen, und
-wenn ihr mögt, eine weitere Person damit zu beauftragen, das
-Event und die Ergebnisse fotografisch zu dokumentieren. Findet
-sich dafür ein kleines Team aus eurer Einrichtung zusammen
-oder könnt ihr noch externe Verstärkung gebrauchen? Gerne
-helfen wir euch dabei, geeignete TeamerInnen aus unserer
-Community zu finden.
-Jeder Workshop hat seine eigenen Anforderungen, auch im
-Hinblick auf Ausstattung, Technik und Material. Während die
-„Newsbusters“ nicht ohne Laptops und gut funktionierendes
-WLAN auskommen, wird für „Ungehörsam“ eine eigene App
-benötigt, die QR-Codes produzieren kann. Womit der Veranstaltungsraum
-ausgestattet sein muss (z.B. Tische, Stühle, Beamer)
-und welche Materialien für den jeweiligen Workshop gebraucht
-werden (z.B. Tablets, Drucker, Stifte), könnt ihr Kapitel drei
-entnehmen.
+<b>Für diese Multiplikator*innen-Ausbildung braucht es vor allem Zeit.</b> 
+<p>Pädagog*innen und Organisationen, die auch nach dieser Qualifizierung fragen, haben oft gute Gründe euch zu fragen, ob die Weiterbildung nicht auch an einem halben Tag gemacht werden oder mit einer anderen Veranstaltung verknüpft werden kann. Versucht aber einen möglichst stressfreien Rahmen zu schaffen. Eure Teilnehmenden müssen das Format, dass sie später durchführen wollen wirklich verstanden haben. Und sehr wahrscheinlich wird es auch viele Fragen geben. All das braucht Zeit.</p>
+
+<p>Denkt bitte auch daran, eine Mittagspause einzuplanen. Ein guter Slot ist dafür zum Beispiel nach Phase 3. Wir haben die Mittagspause gerade nicht an einer festen Stelle eingetragen, damit ihr selbst schauen könnt, wann diese für euch am Besten passt.
+Außerdem solltet ihr im Vorfeld klären, an welchem Ort die Weiterbildung stattfinden soll. Für die meisten der Formate ist eine gute Internetverbindung nützlich, aber nicht notwendig. Viele Programme funktionieren sogar offline, nachdem sie einmalig eingerichtet wurden. Je nach Workshop und Anzahl der Teilnehmenden benötigt ihr darüber hinaus Platz für Kleingruppen, Tische mit genügend Platz für Laptops und Strom etc. Achtet auch darauf, dass ihr einen ruhigen Ort zum Arbeiten habt. Zentrale Teile der Weiterbildung bestehen aus Reflexion und Austausch. Dafür müsst ihr ungestört mit eurer Gruppe arbeiten können. Wie genau der Raum ausgestattet sein muss (z.B. Tische, Stühle, Beamer)
+und welche Materialien gebraucht werden (z.B. Tablets, Drucker, Stifte), könnt ihr Kapitel drei
+entnehmen.</p>
+
+
 
