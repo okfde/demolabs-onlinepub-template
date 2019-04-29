@@ -1,5 +1,5 @@
 ---
-title: "Train The Trainer"
+title: "Einleitung"
 type: chapter
 chapter: 0
 --- 
