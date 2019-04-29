@@ -6,17 +6,18 @@ section: 1
 ---
 
 
-Die Ergebnisse der Workshops unterscheiden sich je nach Format,
+Die Ergebnisse der Workshops unterscheiden sich je nach ausgewähltem Probierblock,
 sind aber auch von den Kenntnissen und Fähigkeiten der Teilnehmenden
 abhängig.
 
 Wir empfehlen euch, alle Ergebnisse, egal, ob zu den Themen
-„Fake News“, Computerspiel oder Argumentationsliste, zu
+des jeweilig ausgewählten Demokratielabor-Workshops, der Teilnehmendenaquise oder der Planung des ZIMs, zu
 dokumentieren und aufzubereiten:
 
-* Welche Produkte sind aus dem Workshop heraus
-entstanden?
-* Zu welchen Erkenntnissen sind die Jugendlichen
+* Welche Projektskizzen sind aus dem Workshop heraus
+entstanden? 
+* Wann könnten sie wie stattfinden?
+* Zu welchen Erkenntnissen sind die Teilnehmenden
 gekommen?
 
 Dies kann eine tolle Grundlage für eure anschließende Reflexion,
