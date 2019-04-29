@@ -29,8 +29,8 @@ regelmäßig mit Infos und Neuigkeiten zu den Vorbereitungen,
 den Inhalten oder Ähnlichem deren Neugier steigern. Auf [Twitter](https://www.twitter.com)
 könnt ihr u.a. unter einem bestimmten Hashtag, alle wichtigen,
 lustigen und spannenden Infos und Bilder im Vorfeld verbreiten.
-Toll ist es auch, wenn ihr eine [Instagram](https://www.instagram.com) Story
-während des Workshops macht, für alle die das nächste Mal kommen wollen. Eurer Kreativität sind hier
+Toll ist es auch, wenn ihr eure Teilnehmenden dazu bewegen könnt, [Instagram](https://www.instagram.com) Storys
+während des Workshops anzulegen, für alle die das nächste Mal kommen wollen. Eurer Kreativität sind hier
 keine Grenzen gesetzt!
 
 <p>Was ihr bei der Ankündigung noch berücksichtigen solltet, ist
