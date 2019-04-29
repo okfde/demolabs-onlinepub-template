@@ -4,5 +4,18 @@ type: section
 chapter: 1
 section: 2
 ---
-<p>Durch das Train the Trainer Format wollen wir erreichen, dass Pädagog*innen, Mitarbeiter*innen aus Jugendeinrichtungen und Fachkräfte der (politischen) Bildung sowie der Jugend(verbands)arbeit dazu befähigt werden, als Multiplikator*innen Workshops der Demokratielabore selbstständig mit ihren jeweiligen Zielgruppen durchzuführen. Die Teilnehmenden sollen in dem Multiplikator*innen-Training durch gemeinsames Ausprobieren Sicherheit im Umgang mit den Formaten und Tools erlangen, sowie die Motivation für eigene Durchführungen entwickeln.
-  </p>
+<strong>Die Demokratielabor-Workshops verfolgen vor allem zwei Ziele:</strong>
+
+<ul>
+  <li>Wir wollen Räume schaffen, in denen sich Jugendliche
+      ausprobieren können, und sie dazu ermutigen,
+      sich mithilfe von digitalen Kompetenzen, Werkzeugen
+      und Technologien selbstbestimmt und aktiv an gesellschaftlichen
+      Prozessen zu beteiligen.
+  </li>
+  <li>Wir wollen das Internet für und mit jungen Menschen
+      als positiven Gestaltungsraum zurückerobern und die
+      öffentlichen Diskurse in unserer alternden Gesellschaft
+      um die Perspektiven Jugendlicher bereichern.
+  </li>
+</ul>
