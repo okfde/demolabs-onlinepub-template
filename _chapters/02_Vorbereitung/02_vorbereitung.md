@@ -4,9 +4,5 @@ type: chapter
 chapter: 2
 ---
 
-Ihr habt euch für einen oder auch mehrere Workshops entschieden? Toll! Bevor es
-richtig losgehen kann, gibt es im Vorfeld aber einiges zu klären: Ist das benötigte
-Material vorhanden? Braucht ihr Unterstützung durch TeamerInnen? Und wo
-kündigt ihr euer Event an? Dies sind die wichtigsten Punkte, die bei der Planung
-eines Workshops zu beachten sind.
+Für die Vorbereitung ist es wichtig, dass ihr gute Absprachen mit der Organisation oder der Gruppe trefft. Wie viele Personen wollen teilnehmen? Wie viel Zeit ist zur Verfügung? Was ist die Motivation der Gruppe an dem Training teilzunehmen? Was bringen die Teilnehmenden mit? Mit diesen Hintergrundinformationen könnt ihr in die Vorbereitung starten. Je nach Gruppengröße müsst ihr gegebenenfalls den Ablaufplan des Trainings anpassen. Werft außerdem einen Blick auf die benötigten Materialien und stellt sicher, dass die Technik funktioniert. Ihr erspart euch eine Menge Zeit und Stress, wenn alles gut vorbereitet ist und ohne Komplikationen funktioniert. 
 
