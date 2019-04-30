@@ -8,7 +8,7 @@ Die Publikation ist Rahmen des Projektes <a href="https://demokratielabore.de">D
 Die Demokratielabore wurden vom <a href="http://www.bmfsfj.de">Bundesministerium für Familie, Senioren, Frauen und Jugend</a> im Rahmen des Bundesprogramms <a href="http://www.demokratie-leben.de">Demokratie leben!</a> und von der <a href="https://www.bpb.de">Bundeszentrale für politische Bildung</a> gefördert.
 <br><br>
 <b>Redaktion:</b> Lydia Böttcher, Sebastian Seitz, Matthias Löwe, Leonard Wolf, Lea Pfau,
-Nadine Stammen, Jasmin Helm, Saadya Windauer, Maria Reimer, Florian Werkhausen, Lena Besenhard,
+Nadine Stammen, Jasmin Helm, Saadya Windauer, Maria Reimer, Florian Werkhausen, Maria Seidel,
 Paula Grünwald<br>
 <b>Lektorat: </b>Andrea Baron<br>
 <b>Illustrationen: </b> <a href="http://bildbauer.de">Christoph Hoppenbrock</a><br>
